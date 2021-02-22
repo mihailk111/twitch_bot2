@@ -6,7 +6,7 @@ const client = new tmi.Client({
 	connection: { reconnect: true },
 	identity: {
 		username: 'cnt_bot',
-		password: 'oauth:2466gi4os0d28yyxec26wlughj49za'
+		password: 'oauth:blablabla123'
 	},
 	channels: [ channel ]
 });
